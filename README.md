@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gettapini
-- 👀 I’m interested in developing games, drawing art, listening to my favorite music, watching anime and furry arts
+- 👀 I’m interested in developing games, drawing art, listening to my favorite music, watching anime and arts with animals
 - 🌱 I’m currently learning GameMaker Studio 2
 - 💞️ I would like to collaborate with my friends, but after I finish all my projects
 - 📫 You can reach me in VK, where I sit more actively: https://vk.com/rushandev
